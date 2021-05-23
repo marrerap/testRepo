@@ -1,0 +1,46 @@
+html {
+  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+  font-family: "IM Fell English SC", serif; /* this should be the rest of the output you got from Google fonts */
+}
+
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  letter-spacing: .5px;
+}
+
+
+p, li {
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+} 
+
+
+html {
+  background-color: #083050;
+}
+
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  color: #55dbf3;
+  background-color: #116d65;
+  padding: 0 20px 20px 20px;
+  border: 5px solid rgb(12, 182, 139);
+  border-style: double;
+  border-width: thick;
+  border-radius: 5px;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #55dbf3;
+  text-shadow: 3px 3px 1px black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
